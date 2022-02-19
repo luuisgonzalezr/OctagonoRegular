@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+    }
+
+    body{
+margin:0px;
+    padding:0px;
+    background-color:lightblue;
+    color:black;
+    }
+    h1{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color:black;
+        font-size: 38pt;
+       
+        }
+        .nums{
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Gill Sans MT', Calibri,
+            'Trebuchet MS', sans-serif;
+            color:black;
+            font-size: 40px;
+            text-align: center;
+           
+        }
+        button{
+            width:500px;
+            padding: 40px 200px;
+            margin-top: 30px;
+            margin:20px 320pt;
+            border-radius: 10px;
+            border-style: none;
+            border: 1px solid black;
+            cursor: pointer;
+            text-decoration: none;
+            font-size:40px;
+        }
+       
